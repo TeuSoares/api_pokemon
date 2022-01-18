@@ -1,0 +1,33 @@
+.page{
+    background-color: #fff!important;
+}
+.text-center{
+    text-align: center!important;
+    width: 100%;
+}
+.item-content{
+    padding: 0!important;
+    width: 46%;
+    background-color: #741a1a;
+    margin: 0.25em;
+    border-radius: 14px;
+}
+small{
+    padding-bottom: 0.75em;
+    display: inline-block;
+    font-size: 0.8em;
+}
+
+.normal{background-color: #29ece3;}
+.fire{background-color: #c22222;}
+.grass{background-color: #19a80c;}
+.electric{background-color: #e4ce0b;}
+.water{background-color: #177aeb;}
+.ground{background-color: #756f15;}
+.rock{background-color: #535555;}
+.fairy{background-color: #8a1767;}
+.poison{background-color: #85164a;}
+.bug{background-color: #f8863b;}
+.psychic{background-color: #af6f1a;}
+.flying{background-color: #172eaf;}
+.fightting{background-color: #852121;}
